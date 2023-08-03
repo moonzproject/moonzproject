@@ -140,17 +140,17 @@ Thank you so much for joining my Discord servers so we can talk more:
   </a>
 </p>
 <p align="left">
-  <a href="https://discord.gg/P4XxUmebDa" target="_blank"> 
+  <a href="https://discord.gg/ff2qeT5f4v" target="_blank"> 
     <img src="https://discord.com/api/guilds/1054814674979409940/widget.png?style=banner2" alt="pc-development.png">
   </a>
 </p>
 <p align="right">
-  <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
+  <a href="https://discord.gg/ff2qeT5f4v" target="_blank"> 
     <img src="https://discord.com/api/guilds/912596015075455016/widget.png?style=banner2" alt="pc-club.png">
   </a>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/831934465609302056" target="_blank">
+  <a href="https://discord.com/users/814416430207467522" target="_blank">
     <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png"  />
   </a>
 </p>
